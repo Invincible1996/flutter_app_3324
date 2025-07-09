@@ -49,6 +49,9 @@ dependencies:
   
   # For form validation
   form_validator: ^2.1.1
+  
+  # For carousel slider
+  carousel_slider: ^5.1.1
 
 dev_dependencies:
   flutter_test:
